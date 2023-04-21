@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HFA-3rd Cap 3 Frame Layout Example</string>
+    <string name="duck_image">Duck Image</string>
+    <string name="duck_message">It\'s a duck!</string>
+</resources>
